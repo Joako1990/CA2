@@ -1,0 +1,359 @@
+Country Code,Post,Comment,Date,Sentiment_Value,Sentiment
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,Because it's forbidden to use a train without a ticket.,2022-12-20 21:33:11,0.0,Neutral
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,"The train station in my hometown doubles as a throughway/shortcut (how to translate Unterführung??) from one side of the village to the other. Loads of people access it without any intention of taking a train, so you’d have to redesign the whole thing in order to add turnstiles without making the throughway inaccessible. That’s just one single example, so I guess the question is less “why are turnstiles not added now” which, just not feasible since loads of places would need to be restructured/redesigned, and more “why were they not designed for in the first place”.",2022-12-21 00:12:10,0.09781746031746032,Positive
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,"If you get caught riding public transport without a ticket, you get a pretty hefty fine (about what you would pay for a monthly ticket), and if that happens multiple times you can face criminal charges. The risk is quite high and not worth it.
+
+And there are people checking if you have the ticket and they don't wear uniforms",2022-12-20 21:35:48,0.03952380952380953,Positive
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,"In addition to all the other points, I'd like to add that there are so many different tickets that allow you onto trains/trams/buses/etc that adding turnstiles would be a massive PITA. For example, I have a BahnCard 100, but someone else has a 4-stamp card, and someone else has a ticket specifically for a single destination. They would have to overhaul all of those tickets in order to have them comply with a single system, or employ someone at every station to check every ticket that wasn't turnstile-compatible.",2022-12-20 21:51:06,0.0386904761904762,Positive
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,"I was in the Netherlands recently, and I concluded that the main reason they have turnstiles is because a turnstile manufacturer worked very hard at convincing the railway authority that this was the way to do things. 
+
+I also thought that the turnstile manufacturer was getting a cut out of each data processing event. That's why they designed a system which involves so much checking in and checking out. This is to say that the biggest beneficiary of this system was the turnstile company. 
+
+But the system sucks. I do not believe that the Dutch are any more or less likely to go without tickets than Germans. But the Dutch system is slow and annoying, slow to enter, slow to exit, the tickets have to have an added surcharge because they aren't simple paper tickets they are RFID/NFC tickets. God help you if you accidentally swipe out but don't leave fast enough and then you're stuck inside. In theory, in an emergency, the gates would automatically open, but that depends on the emergency. A fire alarm should trigger that, but I can imagine other types of emergencies where people would get stuck because there is no clear way for the system to know that there is an emergency worth opening the gates for.
+
+Once I got back to Germany I thanked god that we don't have to deal with that awful system.",2022-12-21 02:07:33,-0.08428030303030304,Negative
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,"Depends on where you live. Where I live there are at least 20 different ways to be eligible to ride the trains.
+
+Some of those do not have a ""ticket"". 
+
+For example if you have a Schwerbehindertenausweis  (severely handicapped pass) you are allowed to ride public transportation for a small yearly fee or even free and you are allowed to bring a support person with you for free.
+
+Students have public transportation included in their semester fees.
+
+Soldiers in uniform are allowed to use public transportation for free.
+
+If you have a long-distance ticket with the DB you often are allowed to use public transportation to your final destination for free, and you can also book a ""city"" option with your ticket where you can use all public transportation within a city for a small extra fee.
+
+There are tickets that are valid for a full day or even weekend.
+
+&#x200B;
+
+In the end those turnstiles would be able to check potentially dozens of different tickets. Some that are valid for hours, days or even month or years. Some are only valid for a specific amount of stops (Kurzstrecke/short distance). Some don't even have a physical ticket (e.g. a solider in uniform).
+
+So being able to check the ticket and then figure out if the customer is allowed to pass is a nightmare of complexity.",2022-12-20 22:50:14,0.09690909090909092,Positive
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,"It's not just Germany that does this: it's the norm in many other countries as well, and the name for this system is ""proof of payment"" -- because you need to be able to prove that you paid the fare if you are ever challenged.
+
+Ticket barriers have a lot of disadvantages. First, they cost money: they have to be designed, built, operated, maintained, updated, and eventually replaced. Every station is designed differently, so there's no simple one-size-fits-all solution that would keep costs down.
+
+Ticket gates can also cause bottlenecks, and at peak periods that's a big problem. A partial solution is to have tap-in points without physical barriers, but that still causes bottlenecks and delays -- they're just not so bad. Also, it makes it possible to enter the station without paying so you then still need ticket inspectors *as well as* the whole tap-in system. Also, you have the problem of people tapping in and forgetting to tap out again. You could potentially use RFID technology so that people are booked in and out as they enter and leave a station without needing to find their ticket, but that would create even more problems: if it's not sensitive enough it might fail to book people in who would therefore be riding without a valid ticket but without intending to, or fail to book people out; if it's too sensitive it might book people in who are merely walking past and charge them for journeys they didn't make.
+
+Physical barriers are also a major hazard if a station needs to be evacuated for any reason. Of course in the event of an emergency the gates would obviously simply open and remain open, but they still form obstacles that would roughly double the time it takes to evacuate the station or even, if there is a panic, increase the chances of people being injured or even killed.
+
+There are a lot of stations that can't have barriers installed for various reasons. It's common even in places like London for smaller stations to have no physical barriers, but again this means you're not saving any money on ticket inspectors.
+
+Even larger stations would be problematic. Take, for example, Aschaffenburg Hbf, a station I know very well. Platforms 1 and 2 are directly accessible from the main hall, while all the other platforms are accessible via a foot tunnel. If you put one ticket barrier in the main hall for access to all the platforms at once, you would also end up with the luggage lockers, information desk and waiting area behind the barrier. If you put one ticket barrier in place for platforms 1 and 2, and a second barrier for the tunnel, you force some passengers who are just changing trains to go through two ticket barriers. And the whole thing is impossible anyhow because the tunnel also provides pedestrian access to homes and businesses on the other other side of the station; it was specifically built for that, and effectively closing it off would be a huge inconvenience for a lot of people.
+
+And of course the technology can fail. Physical barriers can simply jam; software can be buggy or glitchy, and potentially miscalculate fares or even fail to open gates or book passengers in and out properly. There are instances of this happening in many places, but because a lot of these systems have a kind of ""black box"" approach -- passengers don't need to worry about getting the right ticket, they just tap in and tap out and trust that the system is working as intended -- passengers are less likely to notice.",2022-12-21 08:34:00,-0.0036722612542284695,Negative
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,Those suck. I remember sneaking out of a Dutch train station because I arrived there from Germany and could not get out. I feared I was stuck in there for a moment.,2022-12-20 23:58:07,0.0,Neutral
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,It's a system mostly based on trust. Plus something something people deserve to travel,2022-12-20 21:43:50,0.5,Positive
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,"Turnstiles waste time, there’ll probably be three tourists blocking all of the Hauptbahnhof stiles while they attempt to scan the right code",2022-12-20 23:07:10,0.042857142857142844,Positive
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,Cause it's cheaper in the short term to have people to check tickets on the trains than to invest in infrastructure at the stations.,2022-12-20 21:34:27,0.0,Neutral
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,Weil die Dinger Geld kosten und ihr Nutzen gering ist. Außerdem behindern die in Notfällen eine schnelle Evakuierung des Bahnhofs.,2022-12-20 23:37:23,0.0,Neutral
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,maybe also a problem in cases of emergencys? blocking exits is a big nono,2022-12-20 22:10:29,0.0,Neutral
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,"Also, you would be unable to just pick someone up at the platform without having a valid ticket. There were (or maybe are) very few train stations which had ""Bahnsteigkarten"", but I think these are long gone now.",2022-12-20 22:23:44,-0.27,Negative
+DEU,Why does Germany not have turnstiles at train stations/metro stations?,[deleted],2022-12-20 22:46:03,0.0,Neutral
+DEU,Fine metro,">Im from the Netherlands and my german is quite good. On the way there we bought a ticket in the bus,  on the way back i didnt see a ticket machine on the smaller metro stop so we planned to buy one in the next station.
+
+That's interesting, even in bumfuck nowhere Bavaria, I've seen ticket machines for trains in this country. 
+
+Regardless, if your friend has a ticket for themselves that works on their card and is valid for that region, they shouldn't be fined. And yes, from experience, if they in any way know your address (which is at least the case on my own ID card as an example), they'll figure out a way to fine you. You'll get a letter in your mail for this sometime in the future if they hold to it.
+
+I would recommend in the future if you visit, use the DB app for tickets. That way they can't harass you for anything if you flash them a mobile ticket and/or QR code.",2023-09-23 14:53:50,0.17424242424242425,Positive
+DEU,Fine metro,"\> ""(I hate people who misuse public transport)""
+
+\> misuses public transport",2023-09-23 15:44:26,-0.26666666666666666,Negative
+DEU,Fine metro,">Next station we got out, then went to the ticket machine but before we could get there train security came running after us and stopped us.
+
+So you got onto a train without a valid ticket?  
+Well, you are an idiot and deserve to be fined accordingly.
+
+>even though we explained that we were going to buy a ticket
+
+That's not an excuse. Either have a valid ticket or don't use public transport.
+
+>(he was powertripping for sure)
+
+What a great attitude you have towards people doing their job.
+
+>Will they even be able to find me at all?
+
+I fucking well hope so.",2023-09-23 14:49:43,0.049999999999999996,Positive
+DEU,Fine metro,"Just a tip for your next visit: Download the VRR app and use the eezy ticket where you just check in at the beginning off the trip and checkout when you arrive. You don’t need to worry about which ticket you need anymore!
+
+https://www.vrr.de/en/timetable-mobility/eezy-vrr/",2023-09-23 18:24:18,0.0,Neutral
+DEU,Fine metro,"that's kinda sus, demanding you pay immediately. There are some cases where, if they aren't able to reliably identify you, they'll ask you to either pay or they'll have to call the police to ID you, but if that isn't the case, it's more likely he was interested in making a little money on the side.
+
+The ticket guys are, unfortunately, often times bullies and assholes. I sorta get why, but there's no point in sugar coating it, they're often just awful people.",2023-09-23 16:14:37,-0.0625,Negative
+DEU,Fine metro,"
+**Have you read our extensive wiki yet?
+[Check our wiki now!](https://www.reddit.com/r/germany/wiki/index)**
+
+While Reddit administrators do not believe this subreddit is NSFW and do not enable the appropriate setting, do note that participants in this subreddit may possibly encounter discussions of the following subjects, all of which are considered ""mature"" by Reddit administrators:
+
+* Alcohol and tobacco
+* Amateur advice
+* Drug use
+* Gambling
+* Guns and weapons
+* Military conflict and terrorism
+* Nudity
+* Profanity
+* Sex and eroticism
+* Violence and gore
+
+
+Therefore, while this entire subreddit is not currently marked as NSFW, please exercise caution. If you feel offended by anything that is allowed by our rules yet NSFW, please direct your complaint towards Reddit administrators as well as /u/spez, and read https://www.reddit.com/r/Save3rdPartyApps/ for further information.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/germany) if you have any questions or concerns.*",2023-09-23 14:17:33,0.007692307692307688,Positive
+DEU,Fine metro,"Thx for the tip for the app though,  it seems a bit outdates with all the tickets etc. In Holland we walk trough a gate and check in with our bankcard.  
+
+So you dont even have to think about it.",2023-09-23 15:24:33,0.0,Neutral
+DEU,Fine metro,Dutch ID doesnt show an address :),2023-09-23 14:55:26,0.5,Positive
+DEU,Fine metro,Maybe “take advantage of public transport on purpose” would be more fitting,2023-09-23 15:48:20,0.3333333333333333,Positive
+DEU,Fine metro,"Slow down a little, brother.
+
+It's crazy that you got 16 likes for such a disrespectful and demonizing post. You should be ashamed! But classic r/Germany stuff... 
+
+He tried to buy a ticket but couldn't find a machine. He then got off at the next station to buy one, missing the train by doing so. He is a tourist. He doesn't know how public transport works in Germany.
+
+Can he be fined for that? Sure he can. Should you do this kind of stuff? No of course not. But is it necessary to come after him with words like ""idiot"" and question his attitude? Did your girlfriend/wife fuck someone else last night?   
+That would at least explain your attitude!",2023-09-23 19:30:47,-0.10946180555555556,Negative
+DEU,Fine metro,">That's not an excuse. Either have a valid ticket or don't use public transport.
+
+that's bullshit. Often times stops don't have machines and you need to buy them in the vehicle, and sometimes they don't work, sometimes they're just flat out not there.",2023-09-23 16:12:07,-0.025000000000000005,Negative
+DEU,Fine metro,"Dude it was one metro stop, i was drunk it seemed like it wouldnt be a problem.",2023-09-23 15:28:12,-0.5,Negative
+DEU,Fine metro,"Understandable but here in Deutschland they're a bit more ""rustic"" let's say. I know in Sweden also it's a bit different where I was able to flash my bank card at the gate and get through as another example that's a bit more ahead in terms of public transport payment + ticketing than Germany",2023-09-23 15:29:10,0.3,Positive
+DEU,Fine metro,"But it does show your name and date of birth, which would allow a search for your adress, i would assume?",2023-09-23 15:23:36,0.0,Neutral
+DEU,Fine metro,"Would it seem like a problem to you to go into a corner store, take some snacks, walk outside or the atm and explain to the owners running after you that you had planned on paying them later?",2023-09-23 15:51:16,0.0,Neutral
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,"There is a German documentary on YouTube where a German journalist actually finds the tags he scratched into the windows as a young guy in Berlin. Causes a shitstorm and he has to apologise to the NKs because that implied they got junk instead of the newest tech.
+
+//edit: https://youtu.be/vsRi9vmEbrU?t=581",2022-07-29 08:12:55,0.02,Positive
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,"MY CHILDHOOD !!!!!!   
+
+&#x200B;
+
+(M,41,Berlin)",2022-07-29 05:13:45,0.0,Neutral
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,"I've actually been where the picture was taken in Pyongyang. On the windows of the metro you can actually still (very lightly) see outlines of ""art"" from sprayers that probably couldn't be fully removed which I thought was really funny.",2022-07-29 08:00:39,0.1925,Positive
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,Quality product Made in Germany.,2022-07-29 07:43:19,0.0,Neutral
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,"They also used the East Berlin class GI for a while, but they've now been refitted to run with an overhead catenary as suburban trains, similar to an S-Bahn. Apparently it was withdrawn from underground use because the driver's cabin kept catching fire.
+
+The Pyongyang Metro has also introduced a new class, the Underground Electric Vehicle No. 1, of which one set currently exists. It is claimed to be a completely new class, but some people who have seen it say it looks like a refit of the Class D.",2022-07-29 05:50:45,0.1318181818181818,Positive
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,Back again! I loved it to ride in the summer with open doors (!) right to Schlachtensee. It was epic!,2022-07-29 09:48:45,0.18511904761904763,Positive
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,Odd that they use the Berlin S-Bahn colours when these were presumably yellow/orange originally. I presume it's a coincidence.,2022-07-29 10:18:06,0.10416666666666667,Positive
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,Waren das die mit den Holzbänken?,2022-07-29 11:06:09,0.0,Neutral
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,"That's not even the craziest german ""artifact"" in Pyongyang. I discovered on an aerial photograph that they have a replica of one of the paddle steam ships from Dresden. Apparently, Kim il-Sung liked them so much during a state visit to the GDR that he had a copy build. Bizarre.",2022-07-30 02:08:59,0.25,Positive
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,Maybe they are on time there,2022-07-29 16:35:14,0.0,Neutral
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,You got a name or link?,2022-07-29 08:27:26,0.0,Neutral
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,"Wtf? You’re joking, aren’t you?",2022-07-29 08:52:14,-0.5,Negative
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,Those are not junk they are retro. 😤,2022-07-29 15:02:16,0.0,Neutral
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,"Oh god, I know the north korean guide in the green jacket (You see her for example at 10:50)! She has a really bubbly and friendly personality. Also saw her in [some other videos](https://www.youtube.com/watch?v=hXL7pXTYFpc) before. I've always wondered where she learned to speak english so well, she sounds almost American and also knows some ""slang"" words.",2022-07-29 16:52:13,0.03333333333333333,Positive
+DEU,German U-Bahn BVG Class D cars on the Pyongyang Metro,"How many windows must he have vandalised, that he could spot one easily during a short visit to a city?",2022-07-29 14:11:17,0.3111111111111111,Positive
+DEU,Metro fine Hamburg,Go to a service Center and talk in person.,2023-08-30 16:22:32,-0.1,Negative
+DEU,Metro fine Hamburg,gift someone 60 eur best you can do,2023-08-30 16:30:14,1.0,Positive
+DEU,Metro fine Hamburg,[removed],2023-08-30 16:19:17,0.0,Neutral
+DEU,Metro fine Hamburg,[removed],2023-08-30 16:22:16,0.0,Neutral
+DEU,Metro fine Hamburg,[removed],2023-08-30 16:23:41,0.0,Neutral
+DEU,How to obtain the METRO card?,"Grab 2 friends and make an unregistered association.
+You can use this manual (german though)
+
+
+https://www.grillsportverein.de/forum/threads/metrokarte-fuer-jedermann-so-gehts.246913/
+
+We did it a few years ago. Takes ~ 15 minutes does not cost anything.",2023-12-09 20:37:07,-0.1,Negative
+DEU,How to obtain the METRO card?,You can only get one if you have a registered business.,2023-12-09 19:51:55,0.0,Neutral
+DEU,How to obtain the METRO card?,https://www.metro.de/kunde/metro-karte-beantragen#faq1,2023-12-09 19:45:33,0.0,Neutral
+DEU,How to obtain the METRO card?,"
+**Have you read our extensive wiki yet?
+[Check our wiki now!](https://www.reddit.com/r/germany/wiki/index)**
+
+While Reddit administrators do not believe this subreddit is NSFW and do not enable the appropriate setting, do note that participants in this subreddit may possibly encounter discussions of the following subjects, all of which are considered ""mature"" by Reddit administrators:
+
+* Alcohol and tobacco
+* Amateur advice
+* Drug use
+* Gambling
+* Guns and weapons
+* Military conflict and terrorism
+* Nudity
+* Profanity
+* Sex and eroticism
+* Violence and gore
+
+
+Therefore, while this entire subreddit is not currently marked as NSFW, please exercise caution. If you feel offended by anything that is allowed by our rules yet NSFW, please direct your complaint towards Reddit administrators as well as /u/spez, and read https://www.reddit.com/r/Save3rdPartyApps/ for further information.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/germany) if you have any questions or concerns.*",2023-12-09 19:38:44,0.007692307692307688,Positive
+DEU,Change of sit in the metro,"Tbh it could also be because of Corona. I personally like to have my personal space nowadays, too. Maybe she just didn't like to get to close to other people due to the risk of infection and thus left the seat to you.",2021-08-03 15:42:02,-0.05,Negative
+DEU,Change of sit in the metro,"My response would to get up too, I’m just not comfortable sitting next to people especially on a train.",2021-08-03 15:57:47,-0.06666666666666667,Negative
+DEU,Change of sit in the metro,"Could be racist, could be corona.",2021-08-03 15:44:03,0.0,Neutral
+DEU,Change of sit in the metro,"Reminds me of a situation a few years ago(pre corona ) I was sitting with some dude on the ICE train.. we were sitting close together of course for about 30 minutes of the journey…
+Then I guess another sit became free a few rows up front…So the guy apparently wanted to go sit there . So he leaned towards me and said , hey I am going to go sit over there but not because of you ok …He was a bit awkward about it.
+
+In my mind I just LOLd and SMHd. 
+
+I told him of course it’s cool, I would have done the same thing as well …",2021-08-03 17:01:32,0.037500000000000006,Positive
+DEU,Change of sit in the metro,">Do you think it's a racist behavior? Or it is just a normal behavior here?
+
+Hard to say right now. I would have done the exact same, not because you're Brown but because it's a pandemic and I don't want to sit next to anyone who I don't know right now. Maybe that's why the woman had her purse on the other seat, so no one would sit there. So when you asked, she didn't want to be impolite and deny you the seat, but she still didn't want to sit next to anyone, so she stood up.
+
+Or yes, she might have been a horrible racist. Impossible to say.",2021-08-03 16:03:01,-0.10108225108225109,Negative
+DEU,Change of sit in the metro,"I mean...you got the seat and you were nice about it as well. Don't try to make sense of it, is my take. If she wants to inconvenience herself just to avoid your presence there isn't much valuable information to be gained from this anyway. There are too many things she could have thought at that moment, we will never know.",2021-08-03 17:25:16,0.375,Positive
+DEU,Change of sit in the metro,"Few years ago, i sat near an old lady on a bench on bus stop and after few seconds, she got up and moved a bit far but she said that she is sick / flu and that’s why  she moved and not because i sat on same bench snd that she is not racist to which i said, no problem, i understand and i would have done the same. So yeah it can have many reasons as to why she moved",2021-08-03 17:34:31,-0.03492063492063492,Negative
+DEU,Change of sit in the metro,"I wouldn't sit near others due to Corona, unless it's someone I'm traveling with e.g. my flatmate",2021-08-03 18:31:21,-0.012499999999999997,Negative
+DEU,Change of sit in the metro,"I am white and German af. And this happens to me a couple of times also. 
+
+My first guess would be Corona, my second german-ness with a bit of assholery on the side and my third with some separation racism",2021-08-03 18:31:28,0.05,Positive
+DEU,Change of sit in the metro,"No, I‘m pretty sure it‘s „social distancing“ behaviour. I try to have at least one seat unoccupied between me and another person on the bus/Ubahn. Assuming most people want the same I‘ve sometimes stood up if someone sat next to me that looked more deserving of the seat lol.",2021-08-03 18:07:15,0.27499999999999997,Positive
+DEU,Change of sit in the metro,"Maybe your skin colour played a role, or maybe she just wanted some space, hard to tell. Never happened to me though, only the blocking the seat thing.",2021-08-03 15:50:02,-0.14583333333333334,Negative
+DEU,Change of sit in the metro,"Honestly I'd do the same too, purely to avoid seating directly next to another person during an active pandemic.",2021-08-03 21:18:36,0.1361904761904762,Positive
+DEU,Change of sit in the metro,"Well, it could be racism: racists exist, and in a very densely populated place like Berlin you're likely to meet all kinds of strange people. She might be horribly racist, she might be a misanthrope in general, she might just be not quite right in the head.",2021-08-03 15:43:10,-0.0857142857142857,Negative
+DEU,Change of sit in the metro,There is a deep ingrained racism is many older Germans.,2021-08-03 15:38:02,0.2222222222222222,Positive
+DEU,Change of sit in the metro,When did you take a shower last?,2021-08-04 15:11:05,0.0,Neutral
+DEU,A paid metro fine would include in my criminal records?,"No, this won't show up anywhere and you don't need to mention it.",2020-08-27 14:04:10,0.0,Neutral
+DEU,A paid metro fine would include in my criminal records?,"No. A metro fine is neither a crime ""Straftat"" nor an administrative offence ""Ordnungswidrigkeit"". It can become one if you refuse to pay the fine and they drag you to civil court for ""obtaining a public transport service by fraud?"" but that obviously doesn't apply to you.",2020-08-27 19:23:06,0.14666666666666667,Positive
+DEU,A paid metro fine would include in my criminal records?,[deleted],2020-08-27 17:05:40,0.0,Neutral
+DEU,A paid metro fine would include in my criminal records?,"No, but do not tell anyone to call the police, especially when you mistakenly did something you should not have. Not a smart move.",2020-08-27 16:26:33,-0.05357142857142857,Negative
+DEU,A paid metro fine would include in my criminal records?,Thanks!!,2020-08-27 14:07:10,0.3125,Positive
+DEU,A paid metro fine would include in my criminal records?,Thanks for the detailed explanation. I am really glad that I paid for it and I will be more careful next time.,2020-08-27 19:24:34,0.25,Positive
+DEU,A paid metro fine would include in my criminal records?,"Yes, and he continuously threatened me with if the police come they might put this on my criminal records. We waited for maybe 20-25 mins. And 2-3 times he said the same thing and wanted me to pay the fee before they come. Anyone with some good intentions just would let me go after warn me and stamp my ticket.",2020-08-27 18:12:52,0.09999999999999998,Positive
+DEU,A paid metro fine would include in my criminal records?,Why is it a stupid move? If a unmarked guy randomly checks on passengers and I'm not totally sure he is legit its a reasonable move to have them call the police. Just them beeing there wont escalate it.,2020-08-27 20:19:32,-0.33749999999999997,Negative
+DEU,A paid metro fine would include in my criminal records?,I called the police because I didn’t trust the guy who controls tickets. I thought he might use the situation to get my money.,2020-08-27 16:30:24,0.0,Neutral
+DEU,A paid metro fine would include in my criminal records?,"The BVG controllers have anything but ""good intentions"" towards anyone, ever. They just want to fine you, and be on their way.
+
+Him having to wait with you for 20-25 minutes meant he couldn't be fining other people.",2020-08-27 19:12:38,0.33055555555555555,Positive
+DEU,A paid metro fine would include in my criminal records?,"BVG - ""Because we love you"", thats their slogan lmao.",2020-08-27 19:25:41,0.55,Positive
+DEU,A paid metro fine would include in my criminal records?,">	Anyone with some good intentions just would let me go after warn me and stamp my ticket.
+
+How many times per day do you think they here the same sobbing story of someone who „just forgot to stamp the ticket“?",2020-08-29 06:01:33,0.39999999999999997,Positive
+DEU,A paid metro fine would include in my criminal records?,"If he was a controller, he wasn't unmarked. They stand out and they often randomly check passengers. Tourists make mistakes as this OP did, but the S-Bahn controllers won't care. It's great that he received a reduced fine, but it's not a police matter as they told him.",2020-08-28 14:31:59,0.23888888888888893,Positive
+DEU,A paid metro fine would include in my criminal records?,60 euros is the standard fine on the S-Bahn for infractions. Glad to hear that you had it reduced.,2020-08-27 16:33:57,0.3055555555555556,Positive
+DEU,A paid metro fine would include in my criminal records?,"The things is, the time I bought my ticket was written on it and and when they fined me it was less than 10 mins. Sure this is not that common when you consider many people don’t even buy tickets. And I don’t see any problem with if controller kindly ask you to stamp your ticket in such a situation. After all we are all humans, we make mistakes, forget things.",2020-08-29 07:56:52,0.18888888888888888,Positive
+DEU,How to pay a metro fine,"Yes, you have to wire the money, although I see the deadline has passed. The information you need is all there on that form:
+
+* Angaben zum Zahlungsempfänger = name of payee (interesting, they appear to be outsourcing it now)
+* IBAN = international bank account number of the payee
+* BIC des Kreditinstituts = business identifier code of the payee's bank (a.k.a. SWIFT)
+* Kunden-Referenznummer = customer reference number
+* noch Verwendungszweck = note to payee continued
+
+If you were in Germany with a German bank account, you'd simply fill out the form with your name and IBAN and hand it in to your bank. You'll need to arrange a transfer from your bank using the information on the form.",2016-08-02 15:10:34,0.125,Positive
+DEU,How to pay a metro fine,">Do I just fill out the orange form and send it out to the address under ""empfanger""? Or am I expected to wire the money?
+
+The ""orange form"" is a form customers of German banks can use to transfer money to other accounts; if you had a German account, you could fill it and give it to your bank, so they transfer the money. So no, you can't send it to the company.
+
+Rather, you will need to figure out how to transfer the money to the account (specified with the IBAN and BIC) of the company. You'll need to include the ""Kunden-Referenznummer and Verwendungszweck"" so that it shows up with your payment, so the recipient can figure out which bill you are paying.",2016-08-02 15:12:05,-0.05625,Negative
+DEU,How to pay a metro fine,The orange form is for you to fill out and give to your bank so they can send the money but if it's not a German bank they will probably look at you funny. The account details that are prefilled on that form are where you need to wire the money. ,2016-08-02 15:12:26,0.125,Positive
+DEU,How to pay a metro fine,"Where do you live? If you live in Europe, you likely know how to do a SEPA transaction using the IBAN/BIC info on the form.
+
+If you live outside of the EU, you have to wire the money from your bank. I probably would, in this case, toss the form in the trash and forget it happened. It's not the right thing to do, but that 60€ fine will probably become closer to 100€ after you take into consideration wiring fees and currency conversion... And you won't be chased down to collect the fine outside of Europe.
+
+You should also check if the BVG does, indeed, recognize Interrail passes. Per a website I was reading, seems the Berlin S-Bahn is included, but haven't been able to find definitive information regarding the U-bahn. If you find info saying it is, you can always fight the ticket.",2016-08-02 19:58:55,0.17023481568936114,Positive
+DEU,How to pay a metro fine,If you're not living in germany you can give a shit on that fine,2016-08-02 19:28:08,0.10833333333333334,Positive
+DEU,How to pay a metro fine,"Thank you! I'm American, but my parents have a European bank account so I'll probably try and get a wire through them. I'm just not sure how BVG will recognize that my fine is paid for. I'm probably gonna have to send them an email. There are so many tourists in Berlin during the summer, how does the company expect us to pay with a form designed for German banks?? Anyways thanks man, I'm hoping that paying past the deadline won't increase the fine or anything.",2016-08-02 20:26:33,0.11481481481481483,Positive
+DEU,How to pay a metro fine,I am American and live in the United States. I was interested in paying the fine because I read a lot of bad stories about BVG chasing you down and increasing the amount. I don't really want any worries if I return to Germany one day. Thanks for the info though.,2016-08-02 20:17:56,0.04343434343434345,Positive
+DEU,How to pay a metro fine,"I'm American and don't have any immediate plans to return to Germany, but what if I do in a couple years?",2016-08-02 20:27:54,0.0,Neutral
+DEU,How to pay a metro fine,"> I'm just not sure how BVG will recognize that my fine is paid for.
+
+That's what the customer reference number is for.",2016-08-02 20:53:20,0.08333333333333334,Positive
+DEU,How to pay a metro fine,the BVG expects you to show up in person the day after you were caught at their headquarters to pay the fine.,2016-08-04 19:51:01,0.4166666666666667,Positive
+DEU,How to pay a metro fine,"did you leave anything with them? adress? name? contact information?
+
+
+how are they gonna prove it was really you who failed to present a ticket? usually for locals you either pay directly in cash or they go to the police with you, where policemen will check on your ID, where you live etc and they will make a record somewhere.
+
+
+
+also if im not mistaken you don't even need any visa to visit germany, so nobody will even know you are here! ",2016-08-02 20:40:07,-0.046590909090909106,Negative
+DEU,How to pay a metro fine,"I showed him my US Passport Card (which is not the same as the passport I travel with, they even have different numbers). He asked for my address, but he wrote it down half wrong and said it didn't matter for the fine anyways because wrote down my ID number. Name and DOB is pretty much all they have, as well as the number on my passport card (not passport).",2016-08-02 20:48:10,-0.012345679012345678,Negative
+DEU,How to pay a metro fine,You're fine if it doesn't happen again. They may or may not save your information for reoccuring incidents. But if you have a valid ticket on your next visits from now on they won't care and they most certainly won't recognize you. ;),2016-08-03 12:30:47,0.2761904761904762,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","> No turnstiles or ticket processers for the local trains
+
+Or *any* trains, and this isn't all that unusual. The concept is called ""proof of payment"": there are no ticket gates, but there are random spot checks and if you don't have proof that you paid for the journey, you can be fined (€60 or twice the adult single fare, whichever is greater); repeat offenders can be prosecuted. Tickets are checked not on platforms, but on the trains.
+
+This system avoids bottlenecks caused by ticket gates, especially important in an emergency, and avoids problems caused by malfunctioning gates; additionally, it makes it easier to design stations. It does make fare dodging easier, but it also makes it easier to accidentally ride without a valid ticket (e.g. you didn't notice your ticket was expired, or you bought the wrong ticket, or you dropped your ticket somewhere). Most people, however, do buy tickets.
+
+Proof of payment systems have actually been implemented in some places in the US -- most famously buses and trams in San Francisco have recently switched to proof of payment.
+
+> we noticed a lot of empty reserved seats as well. Is this common?
+
+It sometimes happens that business travellers in particular might buy a ""flexible"" ticket (allowing them to use any train on that day) and reserve seats on multiple trains, and then only use one of the reservations. No shows can also happen if a train is delayed resulting in passengers missing a connection. Also, of course, check the display that shows which station the seat is reserved from: most reservations are only reserved for part of the whole journey.
+
+Any reservation that is not claimed expires after 15 minutes.
+
+> We noticed tiny house communities across many of the towns and cities of Germany
+
+The famous ""Kleingartenkolonien"" a.k.a. ""Schrebergärten"". These are basically allotments, small plots of land that can be rented and used as gardens: most people also put up a little house that they can chill out in, although they're not supposed to live there.
+
+They were originally created for working-class city dwellers where they could get a little fresh air and supplement their diet by growing their own vegetables -- it was seen as a public health thing. They were most often built on unused land near railway lines, so if you were travelling by train you'll probably have seen a lot of them.
+
+> Where are all the Amazon packages?
+
+They're never left outside in full view of everybody. If the recipient isn't at home they can be left with a neighbour, or taken to a nearby pick-up point where the recipient can pick up the package on production of ID.",2023-04-27 14:11:12,0.13829004329004327,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there",">3) Tiny Homes: We noticed tiny house communities across many of the towns and cities of Germany. Many were bunched together. What are these communities? 
+
+These are not homes, what you were seeing are probably *Schrebergärten* (allotments), you are not allowed to live there.",2023-04-27 13:52:06,0.22727272727272724,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there",[deleted],2023-04-27 13:47:17,0.0,Neutral
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","1. Aside from the moralic question of buying a ticket you can also make a simple calculation. Let's say you tickets costs 6€. A fine is 60€. So if you get controlled every 10 ride there is no difference between buying a ticket or paying a fine. From my experience you get ~~controlled~~ checked much often then every 10th time. In addition the fines can get far worst and you could even get into prison for not having a ticket. And you have the hassle if you get fined. So the moralic side is quite clear, your mental well being is also clearly better if you buy a ticket and the financial side depends, but most of the time it's also worth to buy a ticket.",2023-04-27 14:00:01,0.11944444444444446,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there",">I sort of felt ashamed of my own country while visiting as well, because Germany seems to take care of its people and makes the United States look like a joke in that regard.
+
+I would express my apologies if I was Canadian, but since I am German, all I can say is ""Tja"".🤷‍♀️",2023-04-28 16:04:34,0.3,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","1. Most locals have some kind of monthly/yearly ticket.
+
+2. Some trains just say reserved. Some says reserved and the part route. If yours only said reserved, it was probably reserved for a different part of the route.
+
+3. Probably Kleingärten.
+
+4. In the building? I don't really understand what you mean by this. I don't notice any difference between amazon packages in the US or Germany.",2023-04-27 13:50:29,0.16458333333333333,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","1. Yes. We buy tickets. When you get caught it will cost you money. It's embarrassing.
+2. Those seats are not reserved for specific people, but for people who joined the incentive program by Deutsche Bahn (some sort of Senator status similar to airlines)
+3. Those are not homes. It's garden sheds. It's called ""Kleingartenanlage"". I know this because we hosted an exchange student from Iowa once and she phoned home (from our phone, not the single phone at the post office she expected) and told her mum about the ""tidy slums""
+4. They are delivered to your door, they will ring and you take them in. Or your neighbour receives it and hands it to you when you return home, in case you have not been at home at the time of delivery.",2023-04-27 20:56:23,0.08571428571428572,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","> Do most locals actually buy tickets?
+
+Yes, but of course there are many who don't. It eventually catches up with you as the fines are exponentially higher each time you get caught.
+
+> However, we noticed a lot of empty reserved seats as well. Is this common?
+
+This has been my experience too. A lot of people may miss their connections or just end up sitting in a seat they didn't reserved.
+
+> We noticed tiny house communities across many of the towns and cities of Germany. Many were bunched together. What are these communities?
+
+I'm not 100% sure about this, but I think you may have seen a [Schrebergarden or Kleingarten](https://en.wikipedia.org/wiki/Allotment_\(gardening\)) (which I just learned is called an ""allotment"" in English!). People here don't have their own large lawns so cities often have these green spaces where you can I guess ""rent out"" a plot of land to have a little shed and a garden of your own? I think they are also community owned so you sort of ""buy"" into the club. Somebody with actual experience should answer this though.
+
+> Where are all the Amazon packages? lol. In America you see them all over the place, and I barely saw any in Germany (which is pretty cool), but I am wondering what the Amazon delivery system is like in Germany.
+
+They get delivered either behind the building, in the stairwell, or to a neighbour. I believe DHL and many other package companies don't leave them out because they just don't want to deal with theft.",2023-04-27 13:51:27,0.20007440476190472,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","1.) Yes, most locals buy tickets or have month/year subscriptions to their respective comuter route even if the tickets are not controlled often. It's a bit of a honor system, but it's also tied to heavy punishments if you are caught travelling without a ticket. Once or twice will only give you a fine of about 60-80 Euros each, but repeat offenders can be punished as criminals and it can have a long term effect on your police record. So most people don't risk it. 
+
+2.) Seats are often reserved from the start of a train route even if the passanger enters later, or are reserved from when the last passanger left to the next, even if there are 3 hours in between. They figured it's easier to reserve a seat for a person even if that person isn't going to sit in it for another 3 hours yet, than to switch to reserved sometime on the way and need the staff to get people who sit there off of these seats. Plus, a few old trains still need the staff to put the ""reserved"" markers on the seats, and it would be too much work to just do that on the raod somewhere. Staff has basically nothing else to do but constantly run up and down to control tickets on long distance travel, so that would just be too bothersome otherwise. 
+
+3.) I am not sure what you mean with tiny homes. What I understand as tiny homes is relatively rare. If you've seen small huts with gardens around them at the sides or train tracks or at the edges of towns then these are garden colonies. It's a bit of a cultural thing that people living in the city or town own or rent small garden areas with small huts out in garden colonies and alongside the unwanted ground along train tracks. People plant their own veggies there, have some time in nature, and take care of these gardens - but you are not allowed to life full time there or sleep there more than a few nights. These gardens also have commitees that control them which are probably the closest to a HOA as you will ever come in germany.  
+
+4.) As I wrote in another comment already, packages around here are delivered majorly by DHL or Deutsche post. Amazon prime and a ton of private deliverers are still somewhat of a minority, and often don't deliver with branded cars but unmarked vans or private vehicle. So you might have seen yellow small trucks and vans driving around - this is DHL and Deutsche post. As for the packages - Packages are usually not simply dropped off at the door. That they just leave your packages at pre-determined drop off spots around your house is still a relatively recent thing and still not common. Mail people will ring and try to deliver your package personally, hand it to a neighboor so you can pick it up with them, or take the packages with them again to try another time. When they've tried three times to deliver and couldn't so so, they will take it to a Deutsche Post service station where you can pick the package up during the following week. So you won't see packages just laying around in the open even in the most secure neighborhoods, and even less so in a city.",2023-04-27 14:17:00,0.05987654320987654,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","1. Most people buy their tickets, yes
+2. You can sit everwhere you want if the seat is not reserved, but you cannot sit in first class if you bought a second class ticket
+3. As an Indian once said on a German train: ""very nice slums, very nice slums they have!"". Well these are just allotments ;-)",2023-04-27 20:32:13,0.39357142857142857,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there",">In American ""thinking"", not having to pay for the metro or train is a blessing and I know it would be a shit-show here if we had this type of honor system. Do most locals actually buy tickets?
+
+Well, it's a criminal offense not to do it and you might go to jail if you get sentenced. Would that be worth saving 6 euro to you?",2023-04-27 20:42:41,0.04999999999999999,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","Packages that can't be delivered to the recipient, are either delivered to a neighbor if one is at home and willing to take it until you get home, or they are later on delivered to a Packageshop, where you have to go and pick it up.
+
+I hope you liked Dresden, it's my hometown, and for me it's the most beautiful city in Germany.",2023-04-28 08:28:24,0.44000000000000006,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","1. In Germany using the train without a ticket is not a felony. It's in fact a crime, so they can get you arrested if you do it too often. It's called ""Erschleichung von Leistungen"" and is one of very few laws that survived the end of WW2... so it's a Nazi law and heavily discussed. But yea, in Berlin there are plenty of ppl driving for free. And there are several subway routes that are just very rarely checked and you can spot those guys from a mile, if you know what you have to look for.
+2. With a BahnCard you can reserve a seat for free. If you take a different train it stays reserved until you give the seat free. Not everyone does that tho. If a seat is reserved there's always a route from where to where it's reserved. If you are at that route and there's no-one sitting in that seat, you can just sit down. If the seat is reserved but you are not yet in the reservation zone, sit down and leave if you reach the station where the ppl whose seats you're sitting on get on to the train.
+3. That's odd. Tiny homes are not yet regulated in Germany. Not regulated means, it's not allowed to use the address of your tiny home for your registration. You can use it as a holiday home, but not as your actual home.
+4. What do you mean? Does Amazon just leave your packages in front of the houses? In Germany it's delivered by a parcel service and if you're not at home they either try the next day or deliver your package to a packing center nearby. That can be a post office or the next kiosk. Sometimes it's not the next one but the furthest one... and there's one parcel service that sometimes drops it at ""your neighbor's"" three blocks away. So just because you don't see them doesn't mean they are not there. They clog shops in the surrounding area and also the hallways of ppl living on the ground floor. Seriously, I'm living at ground floor and always wonder how much ppl have to buy until they finally have enough stuff. I don't get it...
+
+Yea, in comparison to the US (aka a neoliberalist's wet dream) many countries take care for their citizens. General insurances are very common outside the states. But about 50% of you are Republican idiots, that don't understand what they'd win.
+
+But those idiots are getting more in Germany as well. And there are some ppl who want Germany to look more like the US. Idiots are everywhere and not an endangered species.",2023-04-29 22:09:37,-0.021317460317460322,Negative
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","hi buddy
+keep your positively about my country but expect that there will be disappointments as well. living there is different from travelling.
+(1) would definitely recommend to buy a ticket whenever possible. check for an app in your area to get quick access.
+(2) you can take reserved seats after 15 minutes on long train rides. older trains might not show the city from where the seat is reserved. 
+(3) don’t know what exactly you mean. even in affluent residential areas plot and buildings might be smaller in germany than in the us because land is relatively scarce. there are way more people who rent rather than own. furthermore there are many semi-detached and terraced houses. those might look funny in your eyes.
+(4) there are still enough of them just not as obvious.
+well people in germany are in fact supposed to take care of each other within their own economic activities and interests. but in fact I wouldn’t expect too much of it either. generally germans tend to integrate us immigrants quickly.",2023-04-28 12:55:29,0.1822127525252525,Positive
+DEU,"Just visited Germany, have some questions I couldn't get answered while there","For the tickets, you also need to be careful they are validated.  This may be a regional thing though.  In Munich, you can buy a ticket for the subway system from a kiosk.  That ticket does not have a date on it - as you can buy it in advance.  When you approach the stairs to the platform, there is an innocuous looking blue box.   You are supposed to stamp your ticket there.  If not, then it is not valid.  If you hop on a bus and buy one inside, it's already validated.
+
+Also, they have (again, in Munich) a day pass which is highly recommended as a tourist.  Yes, it's cheaper to get a ticket for A to B, but the pass lets you ride any subway, trolley, or bus for the region you purchase for a full day.  Bonus is if you get lost on the subway, your ticket is still valid.  You do have to get it stamped at the blue box though. It's under 10 euros last I checked, and great for hop-on hop-off travel around the city.",2023-04-29 04:14:06,0.17285714285714285,Positive
